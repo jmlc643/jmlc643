@@ -12,11 +12,3 @@ Discord Instagram X
 
 💻 Tech Stack:
 Java Kotlin Python TypeScript Render Vercel Netlify WordPress Angular Flask JWT Spring MongoDB MySQL Postgres MicrosoftSQLServer Pandas NumPy Git GitHub Jira Postman Power Bi SonarQube
-
-✍️ Random Dev Quote
-
-
-🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username= jmlc643&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-😂 Random Dev Meme
